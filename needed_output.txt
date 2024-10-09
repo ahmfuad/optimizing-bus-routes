@@ -1,0 +1,76 @@
+111
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Score: 89702
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Kanchpur -> 
+Score: 75477
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Mirpur Thana -> Asadgate -> Sciencelab -> Kollyanpur -> Chiriyakhana -> Shyamoli -> Kawran Bazar -> Motijheel -> Mirpur 14 -> Bangla College -> Kolabagan -> New Market -> Bangladesh Bank -> Komlapur -> Kanchpur -> 
+Score: 75632
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Mirpur Thana -> Asadgate -> Sciencelab -> Kollyanpur -> Chiriyakhana -> Shyamoli -> Kawran Bazar -> Motijheel -> Mirpur 14 -> Bangla College -> Kolabagan -> Kanchpur -> 
+Score: 77861
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Mirpur Thana -> Asadgate -> Sciencelab -> Kollyanpur -> Chiriyakhana -> Shyamoli -> Kawran Bazar -> Motijheel -> Kanchpur -> 
+Score: 76531
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Mirpur Thana -> Asadgate -> Sciencelab -> Kollyanpur -> Chiriyakhana -> Shyamoli -> Kanchpur -> 
+Score: 78483
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Mirpur Thana -> Asadgate -> Sciencelab -> Kollyanpur -> Chiriyakhana -> Kanchpur -> 
+Score: 80970
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Mirpur Thana -> Asadgate -> Sciencelab -> Kanchpur -> 
+Score: 83080
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Mirpur Thana -> Asadgate -> Kanchpur -> 
+Score: 86305
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Duaripara -> Mirpur 11.5 -> Agargaon -> Dhanmondi -> Shukrabad -> Darus Salam -> Kanchpur -> 
+Score: 88781
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Mirpur 1 -> Kanchpur -> 
+Score: 89702
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Jatrabari -> Kanchpur -> 
+Score: 86070
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Kanchpur -> 
+Score: 86070
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Saydabad -> Kanchpur -> 
+Score: 89537
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Rayshaheb Bazar -> Kanchpur -> 
+Score: 93248
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Kanchpur -> 
+Score: 93248
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Gulistan -> Kanchpur -> 
+Score: 97319
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Polton -> Kanchpur -> 
+Score: 99043
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Kanchpur -> 
+Score: 99043
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Shahbag -> Kanchpur -> 
+Score: 100545
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Farmgate -> Kanchpur -> 
+Score: 97326
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Shewrapara -> Kanchpur -> 
+Score: 99883
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kazipara -> Kanchpur -> 
+Score: 103817
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Mirpur 12 -> Kanchpur -> 
+Score: 102110
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kalshi -> Kanchpur -> 
+Score: 108028
+Route -> Ghatarchor -> Mohammadpur -> Banasree -> Rampura -> Uttara -> Baipail -> Kamarpara -> Abdullahpur -> Airport -> Khilkhet -> Kuril -> Mohakhali -> Pallabi -> Mirpur 11 -> Mirpur 10 -> Kanchpur -> 
